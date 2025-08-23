@@ -17,5 +17,3 @@ This program does **not contain any malicious code**. The false positives are li
 - The application being unsigned or not widely distributed yet
 
 If you have any doubts, feel free to inspect the source code yourself or compile it manually from this repository. The project is open source and fully transparent.
-
-Thank you for understanding!
