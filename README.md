@@ -5,7 +5,7 @@ Only works on windows 64-bit platforms.
 ## VirusTotal Scan Notice
 
 You can view the VirusTotal scan result for this application here:  
-[🔗 VirusTotal Link](https://www.virustotal.com/gui/file/fba1172df0ebf037d74a3a835a47c0b5b85a5734abb2f5c0f0ab829223d3392c)
+[🔗 VirusTotal Link](https://www.virustotal.com/gui/file/91f95472d376f2779aa0ba7836061b45fb4b13ff8a1f2e9893b9bacfdbb81e5b?nocache=1)
 
 Please note that the scan may show **a few false positives** (currently 3).  
 This is a known issue that sometimes occurs with small, niche, or unsigned applications—especially those that interact with input devices (like mouse/keyboard hooks), timing, or system APIs.
