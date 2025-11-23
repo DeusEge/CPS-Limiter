@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=CPS Limiter
+Exec=/usr/bin/cps-limiter
+Icon=cps-limiter
+Categories=Utility;
+Terminal=false
