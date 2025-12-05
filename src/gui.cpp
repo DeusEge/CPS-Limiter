@@ -176,7 +176,7 @@ void Window::create_widgets() {
         if (window_multiply == 1.4f) resize_1_4_action->setChecked(true);
         if (window_multiply == 1.5f) resize_1_5_action->setChecked(true);
 
-        store_data_action = new QAction("store data", this);
+        store_data_action = new QAction("Store Data", this);
         store_data_action->setCheckable(true);
         if (store_data) store_data_action->setChecked(true);
 
