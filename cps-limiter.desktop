@@ -3,6 +3,6 @@
 Type=Application
 Name=CPS Limiter
 Exec=/usr/bin/cps-limiter
-Icon=cps-limiter
+Icon=/usr/share/cps-limiter/cps-limiter.png
 Categories=Utility;
 Terminal=false
