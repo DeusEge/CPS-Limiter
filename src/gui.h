@@ -33,7 +33,7 @@
 #define YOUTUBE_LINK "https://youtube.com/watch?v=dQw4w9WgXcQ"
 #define GITHUB_LINK "https://github.com/DeusEge/CPS-Limiter/tree/linux"
 
-#define CLI_PATH "/home/pro/Desktop/cpp/CPS-Limiter/cmake-build-release/cps-limiter-cli"
+#define CLI_PATH "/usr/bin/cps-limiter-cli"
 #define MOUSE_LEFT_PIXMAP_PATH "/usr/share/cps-limiter/mouse_left_click.png"
 #define MOUSE_RIGHT_PIXMAP_PATH "/usr/share/cps-limiter/mouse_right_click.png"
 #define ICON_PATH "/usr/share/cps-limiter/cps-limiter.png"
