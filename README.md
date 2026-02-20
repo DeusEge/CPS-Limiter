@@ -8,13 +8,16 @@ Only works on windows 64-bit and Linux platforms.
 I was too lazy to upload the app on our but you can download it this way.
 
 ```bash
-cd /tmp
-mkdir cps-limiter-build
-cd cps-limiter-build
-curl -o PKGBUILD https://raw.githubusercontent.com/DeusEge/CPS-Limiter/linux/PKGBUILD
-makepkg -si
-cd
+mkdir /tmp/cps-limiter-build
+curl -L https://raw.githubusercontent.com/DeusEge/CPS-Limiter/linux/PKGBUILD -o /tmp/cps-limiter-build/PKGBUILD
+(cd /tmp/cps-limiter-build && makepkg -si)
 rm -r /tmp/cps-limiter-build
+```
+
+## Deleting CPS Limiter
+
+```bash
+sudo pacman -Rns cps-limiter
 ```
 
 ## VirusTotal Scan Notice
