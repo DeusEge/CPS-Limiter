@@ -5,7 +5,7 @@ Only works on windows 64-bit and Linux platforms.
 
 ## Download CPS Limiter
 
-I was too lazy to upload the app on our but you can download it this way.
+I was too lazy to upload the app on AUR but you can download it this way.
 
 ```bash
 mkdir /tmp/cps-limiter-build
