@@ -3,7 +3,7 @@ The purpose of CPS Limiter is to prevent penalties for exceeding the cps limit i
 Only works on windows 64-bit and Linux platforms.
 
 
-## Downloadig CPS Limiter
+## Download CPS Limiter
 
 I was too lazy to upload the app on our but you can download it this way.
 
@@ -14,7 +14,7 @@ curl -L https://raw.githubusercontent.com/DeusEge/CPS-Limiter/linux/PKGBUILD -o 
 rm -r /tmp/cps-limiter-build
 ```
 
-## Deleting CPS Limiter
+## Delete CPS Limiter
 
 ```bash
 sudo pacman -Rns cps-limiter
