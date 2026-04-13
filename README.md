@@ -3,6 +3,7 @@ The purpose of CPS Limiter is to prevent penalties for exceeding the cps limit i
 Only works on windows 64-bit and Linux platforms.
 
 Linux version: https://github.com/DeusEge/CPS-Limiter/tree/linux
+
 Windows version: https://github.com/DeusEge/CPS-Limiter/tree/windows
 
 ## VirusTotal Scan Notice
