@@ -1,5 +1,5 @@
 pkgname=cps-limiter
-pkgver=1.0.0
+pkgver=1.0.1
 pkgrel=1
 pkgdesc="Limits your CPS to prevent penalties for exceeding the CPS limit in various games"
 arch=('x86_64')
