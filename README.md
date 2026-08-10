@@ -6,6 +6,8 @@ Linux version: https://github.com/DeusEge/CPS-Limiter/tree/linux
 
 Windows version: https://github.com/DeusEge/CPS-Limiter/tree/windows
 
+![ScreenShot](screenshots/cps-limiter.png)
+
 ## VirusTotal Scan Notice
 
 You can view the VirusTotal scan result for this application here:  
